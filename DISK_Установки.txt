@@ -1,0 +1,9 @@
+Если вы установили SAPR не на диск C:\ или не в корень диска C:\, то
+Замените в файлах:
+SAPR.ini путь к папке Kiev_Dveri (или к той, с которой вы будете работать и хранить dxf, sr, fig файлы)
+NameFile=C:\Sapr\Kiev_Dveri\noname.SR
+Directory=C:\Sapr\Kiev_Dveri\
+NameFile=C:\SAPR\Kiev_Dveri\КДR.fig
+аналогично для эмуляторов CNCZONT.ini и KRISTAL.INI
+
+
